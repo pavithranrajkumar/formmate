@@ -1,0 +1,41 @@
+.StudentsRegistered{
+    height: 550px;
+    background: #112152 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.StudentsRegisteredTitle{
+    padding-top: 6%;
+    text-align: center;
+    font: normal normal 600 45px/71px Poppins;
+    letter-spacing: 0px;
+    color: #E64560;
+    text-transform: capitalize;
+}
+
+.StudentsRegisteredContainer{
+    padding: 4%;
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: auto;
+}
+
+.StudentsRegisteredNumbers{
+    text-align: center;
+    font: normal normal bold 101px/130px Poppins;
+    letter-spacing: 0px;
+    color: #E64560;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.StudentsRegisteredText{
+    text-align: center;
+    font: normal normal 500 50px/110px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+    

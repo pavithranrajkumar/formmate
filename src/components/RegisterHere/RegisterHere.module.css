@@ -1,0 +1,117 @@
+.RegisterHere{
+    background-image: url('../../assets/Background\ Shapes.svg');
+}
+
+.RegisterHereTitle{
+    margin-top: 100px;
+    text-align: center;
+    font: normal normal 600 70px/90px Poppins;
+    letter-spacing: 0px;
+    color: #112152;
+    text-transform: capitalize;
+}
+
+.FormContainer{
+    display: grid;
+    grid-template-columns: 50% 35%;
+    margin: 5% 10%;
+}
+
+.RegistrationFormLogo img{
+    height: 845px;
+}
+
+.OutlinedText{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    text-shadow: -1px 0 #E64560, 0 1px #E64560, 1px 0 #E64560, 0 -1px #E64560;
+    text-align: center;
+    font: normal normal bold 61px/127px Poppins;
+    letter-spacing: 0px;
+    color: white;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+.FormSubText{
+    margin-top: 0;
+    text-align: end;
+    letter-spacing: 0px;
+    color: #112152;
+    opacity: 1;
+    font: normal normal 500 14px/30px Poppins;
+    margin-block-end: 0;
+}
+
+.RegistrationForm input[type="text"]{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #EEEEEE;
+    border-radius: 10px;
+    opacity: 1;
+    height: 54px;
+    outline: none;
+    margin-top: 5px;
+    width: 100%;
+    text-align: left;
+    font: normal normal normal 15px/25px Poppins;
+    letter-spacing: 0px;
+    color: #3D3D3D;
+}
+
+.RegistrationForm input[type="radio"]{
+    height: 15px;
+    width: 15px;
+    margin-right: 11px;
+    margin-top: 10px;
+}
+
+.RegistrationFormLabel{
+    text-align: left;
+    font: normal normal 500 20px/30px Poppins;
+    letter-spacing: 0px;
+    color: #112152;
+    opacity: 1;
+}
+
+.RegistrationForm{
+    margin-left: 21%;
+    margin-top: 3%;
+}
+
+.FormControl{
+    margin-top: 5%;
+}
+
+.FormControlCurrency{
+    text-align: center;
+    font: normal normal bold 40px/64px Poppins;
+    letter-spacing: 0px;
+    color: #112152;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.RadioBox{
+    width: 185px;
+    height: 154px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E4E4E4;
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+.RadioBox div{
+    cursor: pointer;
+}
+
+.RadioBox img{
+    margin-top: 14px;
+}
+
+.RadioText{
+    text-align: center;
+    font: normal normal 500 11px/37px Poppins;
+    letter-spacing: 0px;
+    color: #E64560;
+    opacity: 1;
+}

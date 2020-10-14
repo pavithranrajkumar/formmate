@@ -1,0 +1,26 @@
+.AboutUs{
+    background-image: url('../../assets/Background\ Shapes.svg');
+}
+
+.AboutUsTitle{
+    margin-top: 100px;
+    text-align: center;
+    font: normal normal 300 70px/90px Poppins;
+    letter-spacing: 0px;
+    color: #112152;
+    text-transform: capitalize;
+}
+
+.LogoContainer{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.AboutUsText{
+    text-align: center;
+    font: normal normal normal 19px/50px Poppins;
+    letter-spacing: -1px;
+    color: #000000;
+    opacity: 1;
+    margin-top: 3%;
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="319" height="71.873" viewBox="0 0 319 71.873">
+  <g id="Group_4306" data-name="Group 4306" transform="translate(-207 -14)">
+    <g id="graduation" transform="translate(207 13.956)">
+      <path id="Path_11389" data-name="Path 11389" d="M91.635,301.044a221.961,221.961,0,0,1-25.413,1.976L59.9,307.309l-6.318-4.289a221.988,221.988,0,0,1-25.413-1.976l-.3,4.192v12.677l.3,4.191a246.551,246.551,0,0,1,31.731-2.1,246.572,246.572,0,0,1,31.731,2.1l.3-4.192V305.235Z" transform="translate(-23.962 -258.739)" fill="#e6f7ff"/>
+      <path id="Path_11390" data-name="Path 11390" d="M288.029,317.913V305.235l-.3-4.191a221.96,221.96,0,0,1-25.413,1.976L256,307.309v12.7a246.572,246.572,0,0,1,31.731,2.1Z" transform="translate(-220.057 -258.739)" fill="#cce6ff"/>
+      <path id="Path_11391" data-name="Path 11391" d="M35.943.044,0,17.033,16.989,23.97H54.9l16.989-6.937Z" transform="translate(0 0)" fill="#333e73"/>
+      <path id="Path_11392" data-name="Path 11392" d="M291.943,17.032,256,.044V23.97h18.954Z" transform="translate(-220.057)" fill="#112152"/>
+      <ellipse id="Ellipse_349" data-name="Ellipse 349" cx="4" cy="10.5" rx="4" ry="10.5" transform="translate(0 42.104)" fill="#cce6ff"/>
+      <ellipse id="Ellipse_350" data-name="Ellipse 350" cx="4.5" cy="10.5" rx="4.5" ry="10.5" transform="translate(63 42.104)" fill="#b3ccff"/>
+      <path id="Path_11393" data-name="Path 11393" d="M139.954,99.892,121,109.8v14.123h37.908V109.8Z" transform="translate(-104.011 -85.829)" fill="#4d578c"/>
+      <path id="Path_11394" data-name="Path 11394" d="M274.954,109.8,256,99.892v24.03h18.954Z" transform="translate(-220.057 -85.829)" fill="#333e73"/>
+      <path id="Path_11395" data-name="Path 11395" d="M217.318,315.119c-2.108,0-4.216.051-6.318,0v27.636l6.318-6.318,6.318,6.318V315.119C221.534,315.17,219.426,315.119,217.318,315.119Z" transform="translate(-181.375 -270.838)" fill="#ff6680"/>
+      <path id="Path_11396" data-name="Path 11396" d="M262.318,315.119c-2.1.051-4.21,0-6.318,0v21.318l6.318,6.318Z" transform="translate(-220.057 -270.838)" fill="#e64560"/>
+    </g>
+    <text id="FormMate" transform="translate(290 62)" fill="#112152" font-size="45" font-family="PublicaSans-Bold, Publica Sans" font-weight="700" letter-spacing="-0.05em"><tspan x="0" y="0">FORM</tspan><tspan y="0" fill="#e64560" font-family="PublicaSans-Light, Publica Sans" font-weight="300">MATE</tspan></text>
+  </g>
+</svg>

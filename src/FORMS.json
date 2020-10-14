@@ -1,0 +1,38 @@
+{
+  "Medical": {
+    "Mbbs": {
+      "1": "NEET UG",
+      "2": "AIIMS",
+      "3": "JIPMER"
+    },
+    "B.Pharm": {
+      "1": "NEET UG",
+      "2": "AIIMS",
+      "3": "JIPMER"
+    }
+  },
+  "Non-Medical":{
+    "Engineering": {
+      "1": "KEC",
+      "2": "IIT",
+      "3": "MIT"
+    },
+    "Aero": {
+      "1": "HIND",
+      "2": "SSE",
+      "3": "APE"
+    }
+  },
+  "Arts":{
+    "Accounts": {
+      "1": "AVM",
+      "2": "SS",
+      "3": "MIDDT"
+    },
+    "CA": {
+      "1": "ASD",
+      "2": "AD",
+      "3": "ASDs"
+    }
+  }
+}
