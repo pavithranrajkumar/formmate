@@ -22,8 +22,9 @@
 }
 
 .StudentsRegisteredNumbers{
+    text-shadow: -7px -5px 1px rgba(251,236,236,0.41);
     text-align: center;
-    font: normal normal bold 101px/130px Poppins;
+    font: normal normal bold 85px/130px Poppins;
     letter-spacing: 0px;
     color: #E64560;
     text-transform: capitalize;
@@ -32,11 +33,12 @@
 
 .StudentsRegisteredText{
     text-align: center;
-    font: normal normal 500 50px/110px Poppins;
+    font: normal normal 500 40px/110px Poppins;
     letter-spacing: 0px;
     color: #FFFFFF;
     text-transform: capitalize;
     opacity: 1;
+    margin-top: -57px;
 }
     
 .shadowText{

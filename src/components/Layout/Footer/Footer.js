@@ -58,6 +58,10 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
+            <div className={classes.footerBorder}></div>
+            <div className={classes.copyRights}>
+                <p>Copyright © 2020 FormMate - All rights reserved | Privacy Policy</p>
+            </div>
         </footer>
     )
 }

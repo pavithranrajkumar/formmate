@@ -11,16 +11,24 @@ const StudentsRegistered = () => {
             </div>
             <div className={classes.StudentsRegisteredContainer}>
                 <div>
-                    <span className={classes.StudentsRegisteredNumbers}>100</span><br/>
-                    <span className={classes.StudentsRegisteredText}>Medical</span>
+                    <div>
+                        <span className={classes.StudentsRegisteredNumbers}>100</span><br/>
+                    </div>
+                    <div className={classes.StudentsRegisteredText}>
+                        <span>Medical</span>
+                    </div>
                 </div>
                 <div>
                     <span className={classes.StudentsRegisteredNumbers}>100</span><br/>
-                    <span className={classes.StudentsRegisteredText}>Medical</span>
+                    <div  className={classes.StudentsRegisteredText}>
+                        <span>Medical</span>
+                    </div>
                 </div>
                 <div>
                     <span className={classes.StudentsRegisteredNumbers}>100</span><br/>
-                    <span className={classes.StudentsRegisteredText}>Medical</span>
+                    <div  className={classes.StudentsRegisteredText}>
+                        <span>Medical</span>
+                    </div>
                 </div>
             </div>
         </div>
