@@ -115,3 +115,11 @@
     color: #E64560;
     opacity: 1;
 }
+
+.shadowText{
+    position: absolute;
+    left: 29%;
+    opacity: 0.09;
+    font-size: 113px;
+    font-weight: 600;
+}

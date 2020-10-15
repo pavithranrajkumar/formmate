@@ -5,7 +5,12 @@ import AboutUsLogo from '../../assets/AboutUs.svg'
 const AboutUs = () => {
     return (
         <div className={classes.AboutUs} id="about">
-            <div className={classes.AboutUsTitle}><span className="red">About</span> Us</div>
+            <div className={classes.AboutUsTitle}>
+                <div className={classes.shadowText}>
+                    <span className="red">About</span> Us
+                </div>
+                <span><span className="red">About</span> Us</span>
+            </div>
             <div className={classes.LogoContainer}>
                 <img src={AboutUsLogo} alt="AboutUsLogo"/>
             </div>

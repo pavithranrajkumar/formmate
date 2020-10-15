@@ -9,7 +9,10 @@ import Arts from '../../assets/report.svg'
 const RegisterHere = () => {
     return (
         <div className={classes.RegisterHere}> 
-          <div className={classes.RegisterHereTitle}><span className="red">Register</span> Here</div>    
+          <div className={classes.RegisterHereTitle}>
+              <div className={classes.shadowText}><span className="red">Register</span> Here</div>
+              <span className="red">Register</span> Here
+          </div>    
           <div className={classes.FormContainer}>
                 <div style={{textAlign:'end',marginTop:'100px'}} className={classes.RegistrationFormLogo}>
                     <img src={RegisterHereLogo} alt="RegisterHere"/>

@@ -4,6 +4,9 @@ const StudentsRegistered = () => {
     return (
         <div className={classes.StudentsRegistered}>
             <div className={classes.StudentsRegisteredTitle}>
+                <div className={classes.shadowText}>
+                    <span>Students <span style={{color:'#ffffff'}}>Registered</span> </span>
+                </div>
                 <span>Students <span style={{color:'#ffffff',font:'normal normal 400 45px/71px Poppins'}}>Registered</span> </span>
             </div>
             <div className={classes.StudentsRegisteredContainer}>

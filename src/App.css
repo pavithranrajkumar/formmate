@@ -196,3 +196,17 @@
 }
 
 /*--ACCORDION--*/
+
+
+
+/* TEXT TRANSITION */
+.text-transition{
+  vertical-align: middle !important;
+  white-space: nowrap !important;
+  display: inline-block !important;
+  font: 300 41px / 103px Poppins !important;
+  letter-spacing: 0px !important;
+  color: rgb(230, 69, 96) !important;
+  opacity: 1 !important;
+  margin: 5px 10px !important;
+}

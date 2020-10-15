@@ -24,3 +24,11 @@
     opacity: 1;
     margin-top: 3%;
 }
+
+.shadowText{
+    position: absolute;
+    left: 38%;
+    opacity: 0.09;
+    font-size: 104px;
+    font-weight: 500;
+}
