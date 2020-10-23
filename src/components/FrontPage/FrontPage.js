@@ -16,11 +16,11 @@ const fontStyle={
 }
 const FrontPage = ({setPage}) => {
     const [state, setState] = useState(0)
-    useEffect(()=>{
-        setInterval(() => {
-            setState(state+1);
-        }, 4000);
-    })
+    // useEffect(()=>{
+    //     setInterval(() => {
+    //         setState(state+1);
+    //     }, 4000);
+    // })
     return (
         <div className={classes.FrontPage}>
             <div className={classes.FrontPageTitle}>

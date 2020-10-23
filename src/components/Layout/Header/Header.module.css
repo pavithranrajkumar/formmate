@@ -50,3 +50,16 @@
     height: 80%;
     padding-top: 2%;
 }
+
+@media only screen and (max-width: 600px) {
+    .BrandLogo{
+        width: 206px;
+        margin-left: 21px;
+    }
+
+    .BrandLogo img{
+        width: 168px;
+        height: 73%;
+        padding-top: 5%;
+    }
+}
